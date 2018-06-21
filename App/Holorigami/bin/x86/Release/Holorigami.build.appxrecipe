@@ -467,20 +467,17 @@
     <AppxPackagedFile Include="D:\Data\Unity\HoloLens\MA-Origami\App\Holorigami\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Data\Unity\HoloLens\MA-Origami\App\Holorigami\Data\level0.resS">
-      <PackagePath>Data\level0.resS</PackagePath>
+    <AppxPackagedFile Include="D:\Data\Unity\HoloLens\MA-Origami\App\Holorigami\Data\managedAssemblies.txt">
+      <PackagePath>Data\managedAssemblies.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Unity\HoloLens\MA-Origami\App\Holorigami\Data\nativePlugins.txt">
+      <PackagePath>Data\nativePlugins.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Unity\HoloLens\MA-Origami\App\Holorigami\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Unity\HoloLens\MA-Origami\App\Holorigami\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Data\Unity\HoloLens\MA-Origami\App\Holorigami\Data\managedAssemblies.txt">
-      <PackagePath>Data\managedAssemblies.txt</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Data\Unity\HoloLens\MA-Origami\App\Holorigami\Data\nativePlugins.txt">
-      <PackagePath>Data\nativePlugins.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Unity\HoloLens\MA-Origami\App\Holorigami\Data\StreamingAssets\Vuforia\HoloLensVuforia.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\HoloLensVuforia.dat</PackagePath>
