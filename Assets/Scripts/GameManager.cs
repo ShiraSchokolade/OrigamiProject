@@ -60,4 +60,18 @@ public class GameManager : MonoBehaviour {
             currentTargetID = 0;
         }
     }
+
+    public void PlayCamera()
+    {
+        CameraDevice.Instance.Init(CameraDevice.CameraDirection.CAMERA_DEFAULT);
+
+        CameraDevice.Instance.Start();
+    }
+
+    public void StopCamera()
+    {
+        CameraDevice.Instance.Stop();
+
+        CameraDevice.Instance.Deinit();
+    }
 }
