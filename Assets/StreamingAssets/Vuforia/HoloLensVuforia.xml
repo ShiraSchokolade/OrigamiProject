@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="pattern_Rand_unten" size="0.200000 0.199648" />
+    <ImageTarget name="pattern_Rand_oben" size="0.200000 0.199648" />
+    <ImageTarget name="pattern_Rand" size="0.200000 0.199648" />
+    <ImageTarget name="ham_pattern_sw" size="0.205000 0.204640" />
     <ImageTarget name="PlayingCard" size="0.500000 0.703640" />
   </Tracking>
 </QCARConfig>
