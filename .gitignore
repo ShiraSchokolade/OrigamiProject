@@ -4,6 +4,7 @@
 App/
 [Bb]uild/
 [Bb]uilds/
+HoloToolkit-Examples/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory

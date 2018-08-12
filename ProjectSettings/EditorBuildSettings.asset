@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/VuforiaTestScene.unity
-    guid: 330d8a89fe16fe44f8d7331e664b2d4c
-  - enabled: 0
-    path: Assets/SampleResources/Scenes/2-HoloLens.unity
-    guid: ad86b301810ca461482b726d458f1353
+    path: Assets/Scenes/Holorigami.unity
+    guid: 05d70296cda185b4e883536a83b04390
   m_configObjects: {}
